@@ -1,0 +1,7 @@
+[ERROR] 2017-11-19 23:31:50.021 [main] Exceptions - You should enter integer number
+Trace: 
+com.company.Run.Main.main(Main.java:14)
+java.base/java.lang.Integer.parseInt(Integer.java:770)
+java.base/java.lang.Integer.parseInt(Integer.java:652)
+java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+
